@@ -22,3 +22,35 @@ Este script é um script de usuário (UserScript) que bloqueia o feed do Instagr
 ![image](https://github.com/user-attachments/assets/db2f1abf-9f59-4adf-a26a-37c1972608f6)
 
 • Window.addEventListener('load', removeHomeFeed);: Adiciona um ouvinte de evento para o evento load da janela, garantindo que a função removeHomeFeed seja chamada quando a página for completamente carregada.
+
+# BENEFICIOS
+
+*O Bloqueador de Feed é um UserScript projetado para melhorar sua experiência de uso do Instagram, trazendo diversos benefícios para sua produtividade e bem-estar. Aqui estão alguns dos principais benefícios deste script*
+
+*Aumento da Produtividade*
+
+O feed do Instagram pode ser uma grande distração, consumindo tempo precioso que poderia ser utilizado de maneira mais produtiva. Ao bloquear o feed, você elimina essa distração, permitindo que você se concentre em tarefas mais importantes e aumente sua produtividade.
+ 
+*Foco no Conteúdo Pessoal*
+
+Sem a presença do feed, você pode se concentrar mais nas suas próprias postagens e interações. Isso ajuda a manter o foco no conteúdo que você cria e nas conexões que realmente importam para você, em vez de se perder no conteúdo gerado por outras pessoas.
+
+*Redução do Estresse*
+
+O feed do Instagram pode muitas vezes ser uma fonte de estresse e ansiedade, devido à comparação social e à exposição a conteúdos negativos. Bloquear o feed pode ajudar a reduzir esses sentimentos, promovendo uma experiência mais positiva e saudável na plataforma.
+
+*Controle do Tempo de Tela*
+
+Com menos distrações visuais e menos conteúdo para rolar, você pode passar menos tempo no Instagram. Isso pode ajudar a controlar o tempo de tela e promover um uso mais consciente e equilibrado das redes sociais.
+
+*Simplicidade e Facilidade de Uso*
+
+O script é fácil de instalar e usar, funcionando automaticamente assim que você abre o Instagram. Não há necessidade de configurações complicadas ou ajustes constantes – ele simplesmente faz o trabalho de bloquear o feed de maneira eficiente.
+
+*Personalização*
+
+Embora o script seja projetado para o Instagram, ele pode ser adaptado para bloquear feeds de outras plataformas, proporcionando uma solução personalizada para suas necessidades específicas de redução de distrações.
+
+# CONCLUSÃO
+
+O Bloqueador de Feed é uma ferramenta simples, mas poderosa, que pode fazer uma grande diferença na maneira como você usa o Instagram. Ao eliminar distrações, reduzir o estresse e promover um uso mais consciente da rede social, este script ajuda a melhorar sua produtividade e bem-estar geral.

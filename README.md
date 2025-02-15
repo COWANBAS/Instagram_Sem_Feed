@@ -30,7 +30,7 @@ Este script é um script de usuário (UserScript) que bloqueia o feed do Instagr
 
 ![image](https://github.com/user-attachments/assets/b7a7bed0-197d-414d-8376-24d3ea4a0263)
 
-Caso seu navegador android tenha compatibilidade a UserScripts o script funciona em plataforma moveis.
+Caso seu navegador android tenha compatibilidade a UserScripts o script funcionara.
 
 *Navegador testado e compativel*
 

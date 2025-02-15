@@ -23,6 +23,21 @@ Este script é um script de usuário (UserScript) que bloqueia o feed do Instagr
 
 • Window.addEventListener('load', removeHomeFeed);: Adiciona um ouvinte de evento para o evento load da janela, garantindo que a função removeHomeFeed seja chamada quando a página for completamente carregada.
 
+# COMPATIVEL COM DESKTOPS E CELULARES
+
+![image](https://github.com/user-attachments/assets/7e4bcc9f-3767-4293-937b-8f8e5d49e690)
+
+
+![image](https://github.com/user-attachments/assets/b7a7bed0-197d-414d-8376-24d3ea4a0263)
+
+Caso seu navegador android tenha compatibilidade a UserScripts o script funciona em plataforma moveis.
+
+*Navegador testado e compativel*
+
+• Cromite: https://github.com/uazo/cromite
+
+• Min Browser: https://github.com/minbrowser/min
+
 # BENEFICIOS
 
 *O Bloqueador de Feed é um UserScript projetado para melhorar sua experiência de uso do Instagram, trazendo diversos benefícios para sua produtividade e bem-estar. Aqui estão alguns dos principais benefícios deste script*

@@ -2,7 +2,7 @@
 // @name           Bloqueador de Feed
 // @description    Bloqueia o feed do instagram, foque apenas em você =D
 // @namespace      CowanINSTA
-// @license        CowBas
+// @license        GPL-3.0
 // @version        1.0
 // @author         Cowanbas
 // @match          *://*/*
@@ -28,4 +28,5 @@
 
     // Remover o feed
     window.addEventListener('load', removeHomeFeed);
+
 })();
